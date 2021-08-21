@@ -1,0 +1,102 @@
+[
+
+	{
+		"id" : 1,
+		"name": "ABITO CORTO",
+		"details": "Maglia leggera, Collo a V, Interno semi-foderato, Logo.",
+		"composition": "Composizione: 94% Viscosa, 6% Elastam.",
+		"modelDetails": [
+			"La modella indossa una taglia 40",
+			"Misure: 40 - 52 - 60",
+			"Altezza modella: 178cm"
+		],
+		"images": [
+			"http://cdn.yoox.biz/34/34295573it_12n_f.jpg",
+			"http://cdn.yoox.biz/34/34295573it_12n_r.jpg",
+			"http://cdn.yoox.biz/34/34295573it_12n_e.jpg",
+			"http://cdn.yoox.biz/34/34295573it_12n_d.jpg"
+		],
+		"size": [
+			{"size":32, "qty": 3},
+			{"size": 38, "qty": 4},
+			{"size" : 40, "qty" : 2}
+		],
+		"price" : 32.00,
+		"discount" : 30
+
+	},
+	{
+        "id" : 2,
+		"name": "BIKINI",
+		"details": "Tessuto sintetico, Chiusura con laccetti, Interno foderato, Sgambato, Logo.",
+		"composition": "Composizione: 79% Poliammide, 21% Elastam",
+		"modelDetails": [
+			"La modella indossa una taglia 40",
+			"Misure: 86 - 60 - 90",
+			"Altezza modella: 178cm"
+		],
+		"images": [
+			"http://cdn.yoox.biz/47/47141306nv_12n_f.jpg",
+			"http://cdn.yoox.biz/47/47141306nv_12n_r.jpg",
+			"http://cdn.yoox.biz/47/47141306nv_12n_e.jpg",
+			"http://cdn.yoox.biz/47/47141306nv_12n_d.jpg"
+		],
+		"size": [
+			{"size":32, "qty": 3},
+			{"size": 38, "qty": 4},
+			{"size" : 40, "qty" : 2}
+		],
+		"price" : 22.50,
+		"discount" : 15
+
+	},
+	{
+        "id" : 3,
+		"name": "CAMICIA MANICHE LUNGHE",
+		"details": "Crêpe, Collo all'italiana, Polsini con bottoni, Bottoni nascosti, Fondo arrotondato.",
+		"composition": "Composizione: 100% Seta",
+		"modelDetails": [
+			"La modella indossa una taglia 40",
+			"Misure: 84 - 56 - 90",
+			"Altezza modella: 179cm"
+		],
+		"images": [
+			"http://cdn.yoox.biz/38/38297439sd_12n_f.jpg",
+			"http://cdn.yoox.biz/38/38297439sd_12n_r.jpg",
+			"http://cdn.yoox.biz/38/38297439sd_12n_e.jpg",
+			"http://cdn.yoox.biz/38/38297439sd_12n_d.jpg"
+		],
+		"size": [
+			{"size":32, "qty": 3},
+			{"size": 38, "qty": 4},
+			{"size" : 40, "qty" : 2}
+		],
+		"price" : 16.99,
+		"discount" : 0
+	},
+	{
+        "id" : 4,
+		"name": "JEANS",
+		"details": "Denim, Lavaggio colorato, Vita con passanti, Zip e bottoni, Cinque tasche, Logo, Borchiette. Larghezza del fondo: 20,0cm",
+		"composition": "98% Cotone, 2% Elastam",
+		"modelDetails": [
+			"La modella indossa una taglia 40",
+			"Misure: 86 - 60 - 90",
+			"Altezza modella: 178cm"
+		],
+		"images": [
+			"http://cdn.yoox.biz/42/42266674ce_12n_f.jpg",
+			"http://cdn.yoox.biz/42/42266674ce_12n_r.jpg",
+			"http://cdn.yoox.biz/42/42266674ce_12n_e.jpg",
+			"http://cdn.yoox.biz/42/42266674ce_12n_d.jpg"
+		],
+		"size": [
+			{"size":32, "qty": 3},
+			{"size": 38, "qty": 4},
+			{"size" : 40, "qty" : 2}
+		],
+		"price" : 49.90,
+		"discount" : 0
+
+	}
+]

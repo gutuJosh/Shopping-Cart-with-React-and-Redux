@@ -1,25 +1,38 @@
-import logo from './logo.svg';
+import React from 'react';
+import { Route, Switch, useHistory} from "react-router-dom";
+import { Provider } from 'react-redux';
+import store from './store.js'
 import './App.css';
+import Header from "./components/Header";
+import ProductsList from './pages/ProductsList';
+import ProductDetails from "./pages/ProductDetails";
+import ShoppingCart from "./pages/ShoppingCart";
 
-function App() {
+const App = (props) => {
+
+  const history = useHistory();
+  
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Provider store={store}>
+      <Header />
+      <section className="app-main">
+        <Switch>
+          <Route path="/" exact>
+            <ProductsList history={history}/>
+          </Route>
+          <Route path="/details/:id">
+            <ProductDetails history={history}/>
+          </Route>
+          <Route path="/shopping-cart">
+            <ShoppingCart history={history}/>
+          </Route>
+        </Switch>
+      </section>
+
+    </Provider>
   );
-}
+ }
+
+
 
 export default App;

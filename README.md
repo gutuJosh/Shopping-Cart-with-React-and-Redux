@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Shopping Cart with React & Redux + Checkout with Paypal Standard payment method
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a Shopping Cart application for e-commerce Websites, using React, Redux and localStorage.
+The project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a front-end project only, no back-end is involved!
 
 ## Available Scripts
 

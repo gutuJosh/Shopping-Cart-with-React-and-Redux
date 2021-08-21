@@ -1,6 +1,6 @@
 # Shopping Cart with React & Redux + Checkout with Paypal Standard payment method
 
-This is a Shopping Cart application for e-commerce Websites, using React, Redux and localStorage.
+This is a Shopping Cart application for e-commerce Websites, build with React and Redux.
 The project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 This is a front-end project only, no back-end is involved!
 

@@ -4,6 +4,11 @@ This is a Shopping Cart application for e-commerce Websites, build with React an
 The project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 This is a front-end project only, no back-end is involved!
 
+## Demo
+
+View the demo [here](https://cosmin-shoppingcart.herokuapp.com/). 
+Feel free to use this code in your projects.
+
 ## Available Scripts
 
 In the project directory, you can run:

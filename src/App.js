@@ -2,7 +2,7 @@ import React from 'react';
 import { Route, Switch, useHistory} from "react-router-dom";
 import { Provider } from 'react-redux';
 import store from './store.js'
-import './App.css';
+/*import './App.css';*/
 import Header from "./components/Header";
 import ProductsList from './pages/ProductsList';
 import ProductDetails from "./pages/ProductDetails";
